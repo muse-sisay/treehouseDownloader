@@ -178,7 +178,7 @@ def download_course(driver , EXTERNAL_DL ):
         os.chdir('..')
         chapter_no += 1
 
-        content_md.close()
+    content_md.close()
 
 
 def main():
